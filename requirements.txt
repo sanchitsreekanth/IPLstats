@@ -1,0 +1,6 @@
+numpy
+pandas
+re
+mysql-connector-python
+prettytable
+lxml
