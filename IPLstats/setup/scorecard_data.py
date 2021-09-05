@@ -6,8 +6,8 @@ currentdir = os.path.dirname(os.path.realpath(__file__))
 parentdir = os.path.dirname(currentdir)
 sys.path.append(parentdir)
 from settings import USER, DB_NAME, PWD, series,teams
-from .helpers import create_db_connection, execute_query, printProgressBar, battingScorecard, bowlingScorecard
-
+from tools.db_funcs import create_db_connection, execute_query
+from tools.match_helpers import batting_scorecard, bowling_scorecard
 
 def create_scorecard_data():
 	create_batting_table_query = """
@@ -63,13 +63,13 @@ def create_scorecard_data():
 		print("Obtaining scorecards from {}".format(year))
 		printProgressBar(0, l, prefix = 'Progress:', suffix = 'Complete', length = 50)
 		for j,match_id in enumerate(matches[index]):
-			batting_scorecard = battingScorecard(series_id,match_id)
-			bowling_scorecard = bowlingScorecard(series_id,match_id)
-			for ele in batting_scorecard:
+			batting = batting_scorecard(series_id,match_id)
+			bowling = bowling_scorecard(series_id,match_id)
+			for ele in batting:
 				for i in ele:
 					query = """INSERT INTO batting VALUES {}""".format(tuple(i))
 					execute_query(connection,query,verbosity=0)
-			for ele in bowling_scorecard:
+			for ele in bowling:
 				for i in ele:
 					query = """INSERT INTO bowling VALUES {}""".format(tuple(i))
 					execute_query(connection,query,verbosity=0)

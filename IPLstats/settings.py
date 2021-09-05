@@ -1,3 +1,8 @@
+PWD = 'Heisenberg@08123'
+DB_NAME = 'ipl'
+USER = 'sanchit'
+
+
 series = {2020: 'indian-premier-league-2020-21-1210595',
 			2019:'indian-premier-league-2019-1165643',
 			2018:'indian-premier-league-2018-1131611',
@@ -31,9 +36,6 @@ teams = {'Chennai Super Kings':['1252150','CSK'],
 		'Rising Pune Supergiant':['1083999','RPS']
 		
 		}
-PWD = 'Heisenberg@08123'
-DB_NAME = 'ipl'
-USER = 'sanchit'
 
 team_colors = {'CSK':['#FCFB00','#000000'],
 				'DC':['#151B54','#0041C2'],

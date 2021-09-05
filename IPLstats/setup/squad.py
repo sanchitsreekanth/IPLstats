@@ -10,7 +10,8 @@ from prettytable import PrettyTable
 import pandas as pd
 import time
 from settings import series, DB_NAME, PWD, USER
-from .helpers import create_server_connection, create_database, create_db_connection, execute_query, getPlayerInfo, printProgressBar
+from tools.db_funcs import create_server_connection, create_database, create_db_connection, execute_query
+from tools.setup_helpers import get_player_info, printProgressBar
 
 
 def create_squads():
@@ -34,7 +35,7 @@ def create_squads():
 	l = len(players)
 	printProgressBar(0, l, prefix = 'Progress:', suffix = 'Complete', length = 50)
 	for i,player_id in enumerate(players):
-		details = getPlayerInfo(player_id)
+		details = get_player_info(player_id)
 		query = " INSERT INTO squad VALUES {};".format(details)
 		execute_query(connection,query,0)
 		time.sleep(0.05)

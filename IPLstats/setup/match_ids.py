@@ -4,19 +4,21 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import sys
-cwd = os.getcwd()
+
+
 player_dict = dict()
 currentdir = os.path.dirname(os.path.realpath(__file__))
 parentdir = os.path.dirname(currentdir)
 sys.path.append(parentdir)
 from settings import series
-from .helpers import getMatches, getPlayerIds, printProgressBar
+from tools.setup_helpers import get_matches, get_player_ids, printProgressBar
+
 
 def createMatchIds():
 	ipl = list(series)
 	print("Getting matches...")
 	series_ids = [series[i] for i in series]
-	ids = [getMatches(j) for j in series_ids]
+	ids = [get_matches(j) for j in series_ids]
 	print('Obtained all match ids')
 
 	for index,match_ids in enumerate(ids):
@@ -27,7 +29,7 @@ def createMatchIds():
 
 
 		for i,match_id in enumerate(match_ids):
-			getPlayerids(series_id, match_id,player_dict)
+			get_player_ids(series_id, match_id,player_dict)
 			time.sleep(0.1)
 			printProgressBar(i + 1, l, prefix = 'Progress:', suffix = 'Complete', length = 50)
 
