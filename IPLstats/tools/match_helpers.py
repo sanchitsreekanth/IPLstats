@@ -13,7 +13,7 @@ parentdir = os.path.dirname(currentdir)
 sys.path.append(parentdir)
 from settings import teams
 
-def batting_scorecard(series_id,match_id):
+def batting_scorecard(series_id,match_id,year):
 
 	url = 'https://www.espncricinfo.com/series/{}/{}/full-scorecard'.format(series_id,match_id)
 	page =  requests.get(url)
@@ -42,7 +42,7 @@ def batting_scorecard(series_id,match_id):
 					position = 0
 				if runs == '-':
 					continue
-				temp.append([unicodedata.normalize("NFKD", name)[:-1],team,opp,position+1,status,int(runs),int(balls),int(fours),int(sixes),float(sr),match_id])
+				temp.append([unicodedata.normalize("NFKD", name)[:-1],team,opp,position+1,status.strip(),int(runs),int(balls),int(fours),int(sixes),float(sr),match_id,year])
 			ret.append(temp)
 		except:
 			pass
@@ -50,12 +50,13 @@ def batting_scorecard(series_id,match_id):
 
 	return ret
 
-def bowling_scorecard(series_id,match_id):
+def bowling_scorecard(series_id,match_id,year):
 
 	url = 'https://www.espncricinfo.com/series/{}/{}/full-scorecard'.format(series_id,match_id)
 	page =  requests.get(url)
 	soup = BeautifulSoup(page.content,'lxml')
 	table_body=soup.find_all('tbody')
+
 	q = soup.find_all(class_ = 'header-title label')[:2]
 	q = [i.text.split('INNINGS')[0] for i in q]
 	q = q[::-1]
@@ -63,21 +64,23 @@ def bowling_scorecard(series_id,match_id):
 	for i,table in enumerate(table_body[1:4:2]):
 		try:
 			temp = list()
-			team = [teams[j][1] for j in teams if j in q[i]][0]
-			opp = [teams[j][1] for j in teams if j in q[::-1][i]][0]
-			rows = table.find_all('tr')
+			team = [teams[j][1] for j in teams if j in q[i].strip()][0]
+			opp = [teams[j][1] for j in teams if j in q[::-1][i].strip()][0]
+			rows = table.find_all('tr')		
 			for row in rows:
 				colvals = row.find_all('td')
 				colvals = [i.text for i in colvals]
-				name = colvals[0].split('(c)')[0]
-				if "'"  in name:
-					name = name.replace("'"," ")
-				overs,maidens,run,wickets,eco,dots,f,s,w,n = colvals[1],colvals[2],colvals[3],colvals[4],colvals[5],colvals[6],colvals[7],colvals[8],colvals[9],colvals[10]
-				temp.append([name,team,opp,float(overs),int(maidens),int(run),int(wickets),float(eco),match_id]) 
+				if len(colvals) > 1:
+					name = colvals[0].split('(c)')[0]
+					if "'"  in name:
+						name = name.replace("'"," ")
+					overs,maidens,run,wickets,eco,dots,f,s,w,n = colvals[1],colvals[2],colvals[3],colvals[4],colvals[5],colvals[6],colvals[7],colvals[8],colvals[9],colvals[10]
+					temp.append([name,team,opp,float(overs),int(maidens),int(run),int(wickets),float(eco),match_id,year]) 
 			ret.append(temp)
+		
 		except:
 			pass
-		return ret
+	return ret
 
 def get_rpo(series_id,match_id):
 	try:
@@ -135,15 +138,15 @@ def get_match_details(series_id,match_id,year,match_number):
 	url = 'https://www.espncricinfo.com/series/{}/{}/full-scorecard'.format(series_id,match_id)
 	page =  requests.get(url)
 	soup = BeautifulSoup(page.content,'lxml')
-	q=soup.find(class_ = 'font-weight-bold match-venue').text
-
-	c = q.split(',')
+	bs4_object=soup.find(class_ = 'font-weight-bold match-venue').text
+	c = bs4_object.split(',')
 	if len(c) == 1:
 		city = c[0].split()[0]
 		venue = c[0]
 	else:
 		city = c[1]
 		venue = c[0]
+
 	venue = venue.replace("'","")
 	q=soup.find(class_ = 'match-info match-info-MATCH match-info-MATCH-half-width')
 	first=second=inn1=inn2=mom=date="None"
@@ -153,39 +156,39 @@ def get_match_details(series_id,match_id,year,match_number):
 	if q == None:
 		q=soup.find(class_ = 'match-info match-info-MATCH match-info-MATCH-full-width')
 	if 'without a ball bowled' not in q.text:
-		
+			
 		first,second = [i.text for i in q.find_all(class_ = 'name')]
 		for x in teams:
 			if x == first:
 				first = teams[x][1]
 			if x == second:
 				second = teams[x][1]
-			
-			
+
 		if 'won by' in q.text:
 			try:
-				mom = soup.find(class_ = 'best-player-name').text
+				mom = soup.find(class_ = 'playerofthematch-name').text
 			except:
 				mom = ''
-			date = q.text.split(', ')[2]
+			date = soup.find_all(class_ = 'description')[0].text.split(',')[2].strip()
 			inn1,inn2 = [i.text for i in q.find_all(class_ = 'score')]
 			margin = q.text.split('won by')[1]
 			if inn1.split('/')[0] > inn2.split('/')[0]:
 				winner = first
 			else:
 				winner = second
+
 		elif 'won' in q.text:
-			date = q.text.split(', ')[2]
-			mom = soup.find(class_ = 'best-player-name').text
+			date = soup.find_all(class_ = 'description')[0].text.split(',')[2].strip()
+			mom = soup.find(class_ = 'playerofthematch-name').text
 			inn1,inn2 = [i.text for i in q.find_all(class_ = 'score')]
 			w = re.search('tied (.*)won', q.text).group(1)[1:]
 			t = w.split()[-1]
-			for x in teams.values():
-				if t in x[0]:
-					winner = x[1]
+			for key,value in teams.items():
+				if t in key:
+					winner = value[1]
 			margin = "Win by Super Over" 
 		else:
-			date = q.text.split(', ')[2]
+			date = soup.find_all(class_ = 'description')[0].text.split(',')[2].strip()
 			mom = 'None'
 			winner = 'No Result'
 			margin = 'No Result'
@@ -200,4 +203,3 @@ def get_match_details(series_id,match_id,year,match_number):
 	else:
 		return None
 	return match_id,year,match_number+1,date,venue,city,first,second,inn1,inn2,winner,margin,mom,rpo1,rpo2,fow1,ovr1,fow2,ovr2
-

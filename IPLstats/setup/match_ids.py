@@ -11,10 +11,11 @@ currentdir = os.path.dirname(os.path.realpath(__file__))
 parentdir = os.path.dirname(currentdir)
 sys.path.append(parentdir)
 from settings import series
-from tools.setup_helpers import get_matches, get_player_ids, printProgressBar
+from tools.setup_helpers import get_matches, get_player_ids
+from tools.utils import printProgressBar
 
 
-def createMatchIds():
+def create_match_ids():
 	ipl = list(series)
 	print("Getting matches...")
 	series_ids = [series[i] for i in series]

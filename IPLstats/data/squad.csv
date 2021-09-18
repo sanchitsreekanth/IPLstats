@@ -1,0 +1,580 @@
+player_id,name,country,role,batting_style,bowling_style
+4292,Travis Birt,Australia,Middle order batter,Left hand bat,Right arm medium
+4451,George Bailey,Australia,Top order batter,Right hand bat,Right arm medium
+4498,Aiden Blizzard,Australia,Batter,Left hand bat,Left arm medium
+4508,Doug Bollinger,Australia,Bowler,Left hand bat,Left arm fast medium
+4541,Lee Carseldine,Australia,Allrounder,Left hand bat,Left arm medium
+4578,Michael Clarke,Australia,Middle order batter,Right hand bat,Slow left arm orthodox
+4864,Dan Christian,Australia,Allrounder,Right hand bat,Right arm fast medium
+5236,Callum Ferguson,Australia,Middle order batter,Right hand bat,Right arm medium
+5334,Aaron Finch,Australia,Top order batter,Right hand bat,Slow left arm orthodox
+5390,Adam Gilchrist,Australia,Wicketkeeper batter,Left hand bat,NULL
+5472,Brett Geeves,Australia,Bowler,Right hand bat,Right arm fast medium
+5560,Brad Haddin,Australia,Wicketkeeper batter,Right hand bat,NULL
+5583,Daniel Harris,Australia,NULL,Right hand bat,Right arm medium
+5605,Shane Harwood,Australia,Bowler,Right hand bat,Right arm fast medium
+5616,Matthew Hayden,Australia,Opening batter,Left hand bat,Right arm medium
+5674,Brad Hodge,Australia,Top order batter,Right hand bat,Right arm offbreak
+5681,Brad Hogg,Australia,Allrounder,Left hand bat,Left arm wrist spin
+5702,James Hopes,Australia,Allrounder,Right hand bat,Right arm medium
+5766,David Hussey,Australia,Allrounder,Right hand bat,Right arm offbreak
+5779,Ryan Harris,Australia,Bowler,Right hand bat,Right arm fast
+5939,Michael Hussey,Australia,Middle order batter,Left hand bat,Right arm medium
+5941,Ben Hilfenhaus,Australia,Bowler,Right hand bat,Right arm fast medium
+5961,Moises Henriques,Australia,Allrounder,Right hand bat,Right arm fast medium
+6033,Mitchell Johnson,Australia,Bowler,Left hand bat,Left arm fast
+6128,Simon Katich,Australia,Batter,Left hand bat,Left arm wrist spin
+6161,Michael Klinger,Australia,Batter,Right hand bat,Batter
+6278,Brett Lee,Australia,Bowler,Right hand bat,Right arm fast
+6285,Darren Lehmann,Australia,Top order batter,Left hand bat,Slow left arm orthodox
+6513,Damien Martyn,Australia,Top order batter,Right hand bat,Right arm medium
+6553,Andrew McDonald,Australia,Allrounder,Right hand bat,Right arm fast medium
+6565,Glenn McGrath,Australia,Bowler,Right hand bat,Right arm fast medium
+6683,Shaun Marsh,Australia,Top order batter,Left hand bat,Slow left arm orthodox
+6903,Clint McKay,Australia,Bowler,Right hand bat,Right arm fast medium
+6938,Ashley Noffke,Australia,Allrounder,Right hand bat,Right arm fast medium
+6981,Dirk Nannes,Australia,Bowler,Right hand bat,Left arm fast
+7133,Ricky Ponting,Australia,Top order batter,Right hand bat,Right arm medium
+7252,Tim Paine,Australia,Wicketkeeper batter,Right hand bat,NULL
+7443,Nathan Rimmington,Australia,Bowler,Right hand bat,Right arm fast medium
+7502,Luke Ronchi,New Zealand,Wicketkeeper batter,Right hand bat,NULL
+7547,Ben Rohrer,Australia,Middle order batter,Left hand bat,Occasional wicketkeeper
+7702,Andrew Symonds,Australia,Allrounder,Right hand bat,Right arm medium, Right arm offbreak
+8002,Dominic Thornely,Australia,Top order batter,Right hand bat,Right arm medium, Right arm offbreak
+8076,Shaun Tait,Australia,Bowler,Right hand bat,Right arm fast
+8119,Adam Voges,Australia,Top order batter,Right hand bat,Slow left arm orthodox
+8166,Shane Warne,Australia,Bowler,Right hand bat,Legbreak googly
+8180,Shane Watson,Australia,Allrounder,Right hand bat,Right arm fast medium
+8291,Cameron White,Australia,Middle order batter,Right hand bat,Legbreak googly
+8917,Moeen Ali,England,Batting allrounder,Left hand bat,Right arm offbreak
+10582,Ravi Bopara,England,Batting allrounder,Right hand bat,Right arm medium
+10772,Paul Collingwood,England,Allrounder,Right hand bat,Right arm medium
+12440,Nayan Doshi,England,Bowler,Right hand bat,Slow left arm orthodox
+12454,Joe Denly,England,Top order batter,Right hand bat,Legbreak
+12856,Andrew Flintoff,England,Allrounder,Right hand bat,Right arm fast medium
+16406,Michael Lumb,England,Top order batter,Left hand bat,Right arm medium
+16932,Dimitri Mascarenhas,England,Allrounder,Right hand bat,Right arm fast medium
+17991,Graham Napier,England,NULL,Right hand bat,Right arm medium
+19264,Liam Plunkett,England,Bowler,Right hand bat,Right arm fast
+19296,Kevin Pietersen,England,Top order batter,Right hand bat,Right arm offbreak
+20123,Owais Shah,England,Batter,Right hand bat,Right arm offbreak
+23460,Luke Wright,England,Top order batter,Right hand bat,Right arm medium
+24598,Eoin Morgan,England,Middle order batter,Left hand bat,Right arm medium
+25913,Mohammad Nabi,Afghanistan,Allrounder,Right hand bat,Right arm offbreak
+26184,Ajit Agarkar,India,Bowler,Right hand bat,Right arm fast
+26206,Balachandra Akhil,India,Bowler,Right hand bat,Right arm medium fast
+26236,Love Ablish,India,Bowler,Right hand bat,Right arm medium fast
+26252,Anirudh Singh,India,NULL,Left hand bat,Right arm medium
+26291,Jagadeesh Arunkumar,India,NULL,Right hand bat,Right arm offbreak
+26421,Ravichandran Ashwin,India,Bowling allrounder,Right hand bat,Right arm offbreak
+26490,Ali Murtaza,India,Bowler,Left hand bat,Slow left arm orthodox
+26782,Swapnil Asnodkar,India,Batter,Right hand bat,Right arm offbreak
+26789,Amit Singh,India,Bowler,Right hand bat,Right arm medium fast
+26797,Anand Rajan,India,Bowler,Right hand bat,Right arm medium
+26798,Srikkanth Anirudha,India,Top order batter,Right hand bat,Top order batter
+26806,S Badrinath,India,Middle order batter,Right hand bat,Right arm offbreak
+26829,Lakshmipathy Balaji,India,Bowler,Right hand bat,Right arm medium fast
+26907,Rajat Bhatia,India,Allrounder,Right hand bat,Right arm medium fast
+26946,Azhar Bilakhia,India,NULL,Right hand bat,Right arm medium
+27150,Raju Bhatkal,India,Allrounder,Right hand bat,Right arm medium
+27223,Stuart Binny,India,Allrounder,Right hand bat,Right arm medium
+27225,Sanjay Bangar,India,NULL,Right hand bat,Right arm medium fast
+27280,Manvinder  Bisla,India,Wicketkeeper,Right hand bat,Wicketkeeper
+27572,Ranadeb Bose,India,NULL,Right hand bat,Right arm fast medium
+27639,Aakash Chopra,India,Batter,Right hand bat,Right arm medium, Right arm offbreak
+27685,Bharat Chipli,India,Batter,Right hand bat,Right arm medium
+27783,Ajit  Chandila,India,Allrounder,Right hand bat,Right arm offbreak
+28081,MS Dhoni,India,Wicketkeeper batter,Right hand bat,NULL
+28114,Rahul Dravid,India,Top order batter,Right hand bat,Right arm offbreak
+28160,Paras Dogra,India,Batter,Right hand bat,Legbreak
+28235,Shikhar Dhawan,India,Opening batter,Left hand bat,Right arm offbreak
+28671,Faiz Fazal,India,Opening batter,Left hand bat,Right arm medium
+28758,Gagandeep Singh,India,NULL,Right hand bat,Right arm medium fast
+28763,Gautam Gambhir,India,Top order batter,Left hand bat,Legbreak
+28764,Chandrasekar Ganapathy,India,NULL,Right hand bat,Right arm medium
+28779,Sourav Ganguly,India,Batter,Left hand bat,Right arm medium
+28792,Rohan Gavaskar,India,NULL,Left hand bat,Slow left arm orthodox
+28830,Gnaneswara Rao,India,Allrounder,Right hand bat,Right arm medium
+28846,Raiphi Gomez,India,Allrounder,Right hand bat,Right arm medium
+28997,Karan Goel,India,NULL,Left hand bat,Right arm offbreak
+29264,Harbhajan Singh,India,Bowler,Right hand bat,Right arm offbreak
+29646,Wasim Jaffer,India,Top order batter,Right hand bat,Right arm offbreak
+29655,Shadab Jakati,India,Bowler,Left hand bat,Slow left arm orthodox
+29702,Abhishek Jhunjhunwala,India,Batter,Right hand bat,Right arm offbreak
+29725,Sunil Joshi,India,Allrounder,Left hand bat,Slow left arm orthodox
+29976,Joginder Sharma,India,Allrounder,Right hand bat,Right arm fast medium
+29990,Mohammad Kaif,India,Batter,Right hand bat,Right arm offbreak
+30045,Dinesh Karthik,India,Wicketkeeper batter,Right hand bat,NULL
+30049,Murali Kartik,India,Bowler,Left hand bat,Slow left arm orthodox
+30102,Zaheer Khan,India,Bowler,Right hand bat,Left arm fast medium
+30176,Anil Kumble,India,Bowler,Right hand bat,Legbreak googly
+30220,Musavir Khote,India,NULL,Right hand bat,Right arm medium
+30235,Uday Kaul,India,Wicketkeeper,Left hand bat,Wicketkeeper
+30288,Karn Sharma,India,Bowler,Left hand bat,Legbreak googly
+30719,Doddapaneni Kalyankrishna,India,NULL,Right hand bat,Right arm medium fast
+30732,Praveen Kumar,India,Bowler,Right hand bat,Right arm medium
+30750,VVS Laxman,India,Top order batter,Right hand bat,Right arm offbreak
+31001,Mithun Manhas,India,Allrounder,Right hand bat,Right arm offbreak
+31028,Mohnish  Mishra,India,Batter,Right hand bat,Right arm offbreak
+31041,Wilkin Mota,India,NULL,Right hand bat,Right arm medium
+31088,Ishan Malhotra,India,Bowler,Right hand bat,Right arm medium fast
+31104,Chandan Madan,India,Wicketkeeper,Right hand bat,Wicketkeeper
+31107,Amit Mishra,India,Bowler,Right hand bat,Legbreak
+31732,Yo Mahesh,India,Allrounder,Right hand bat,Right arm medium fast
+31738,Vikramjeet Malik,India,Bowler,Right hand bat,Right arm medium
+31750,Anustup Majumdar,India,NULL,Right hand bat,Legbreak googly
+31820,Ashish Nehra,India,Bowler,Right hand bat,Left arm medium fast
+31872,Shahbaz Nadeem,India,Bowler,Right hand bat,Slow left arm orthodox
+32084,Sumit Narwal,India,Allrounder,Left hand bat,Right arm medium
+32091,Abhishek Nayar,India,Allrounder,Left hand bat,Right arm medium
+32093,Chetanya Nanda,India,NULL,Right hand bat,Legbreak
+32102,Naman Ojha,India,Wicketkeeper batter,Right hand bat,NULL
+32130,Pragyan Ojha,India,Bowler,Left hand bat,Slow left arm orthodox
+32211,Padmanabhan Prasanth,India,NULL,Left hand bat,Slow left arm orthodox
+32240,Niraj Patel,India,Allrounder,Left hand bat,Allrounder
+32242,Parthiv Patel,India,Wicketkeeper batter,Left hand bat,NULL
+32389,Devraj Patil,India,NULL,Right hand bat,Wicketkeeper
+32391,Ramesh Powar,India,Bowler,Right hand bat,Right arm offbreak
+32498,Yusuf Pathan,India,Allrounder,Right hand bat,Right arm offbreak
+32540,Cheteshwar Pujara,India,Top order batter,Right hand bat,Legbreak
+32685,Irfan Pathan,India,Allrounder,Left hand bat,Left arm medium fast
+32965,Munaf Patel,India,Bowler,Right hand bat,Right arm medium fast
+32966,Piyush Chawla,India,Bowling allrounder,Left hand bat,Legbreak
+32973,Pankaj Singh,India,Bowler,Right hand bat,Right arm medium fast
+33141,Ambati Rayudu,India,Middle order batter,Right hand bat,Right arm offbreak
+33335,Suresh Raina,India,Middle order batter,Left hand bat,Right arm offbreak
+33440,Mahesh Rawat,India,NULL,Right hand bat,Wicketkeeper
+33757,Sachin Rana,India,Bowler,Right hand bat,Right arm medium fast
+33870,Rajagopal Sathish,India,Allrounder,Right hand bat,Right arm medium
+34019,Laxmi Shukla,India,Allrounder,Right hand bat,Right arm medium
+34078,Reetinder Sodhi,India,NULL,Right hand bat,Right arm medium
+34102,Rohit Sharma,India,Top order batter,Right hand bat,Right arm offbreak
+34118,Sridharan Sriram,India,Middle order batter,Left hand bat,Slow left arm orthodox
+34139,TP Sudhindra,India,NULL,Left hand bat,Right arm fast
+34155,Pardeep Sahu,India,Allrounder,Right hand bat,Legbreak googly
+34245,Shalabh Srivastava,India,Bowler,Right hand bat,Left arm fast medium
+34264,Aavishkar Salvi,India,Bowler,Right hand bat,Right arm medium
+34274,Sreesanth,India,Bowler,Right hand bat,Right arm fast medium
+34281,Tirumalasetti Suman,India,Batter,Right hand bat,Right arm offbreak
+34282,Pinal Shah,India,Wicketkeeper batter,Right hand bat,NULL
+34402,Sourav Sarkar,India,NULL,Right hand bat,Right arm medium
+35261,Jamaluddin Syed Mohammad,India,Bowler,Left hand bat,Slow left arm orthodox
+35263,Virender Sehwag,India,Top order batter,Right hand bat,Right arm offbreak
+35280,RP Singh,India,Bowler,Right hand bat,Left arm fast medium
+35281,Vikram Singh,India,NULL,Right hand bat,Right arm medium fast
+35282,Sunny Singh,India,Batter,Right hand bat,Right arm medium fast
+35320,Sachin Tendulkar,India,Top order batter,Right hand bat,Right arm offbreak, Legbreak googly
+35353,Siddharth Trivedi,India,Bowler,Right hand bat,Right arm medium
+35357,Yogesh Takawale,India,NULL,Right hand bat,Wicketkeeper
+35390,Saurabh Tiwary,India,Top order batter,Left hand bat,Top order batter
+35401,Tanmay Srivastava,India,Top order batter,Left hand bat,Right arm medium
+35565,Manoj Tiwary,India,Batter,Right hand bat,Legbreak googly
+35582,Robin Uthappa,India,Batter,Right hand bat,Right arm medium
+35586,Amit Uniyal,India,NULL,Left hand bat,Left arm medium
+35619,Vidyut Sivaramakrishnan,India,Batting allrounder,Left hand bat,Slow left arm orthodox
+35630,Paul Valthaty,India,Batter,Right hand bat,Right arm medium
+35731,Vinay Kumar,India,Bowler,Right hand bat,Right arm medium
+35805,Venugopal Rao,India,Middle order batter,Right hand bat,Right arm offbreak
+35928,Bipul Sharma,India,Allrounder,Left hand bat,Slow left arm orthodox
+36071,Dishant Yagnik,India,Wicketkeeper,Left hand bat,Wicketkeeper
+36084,Yuvraj Singh,India,Middle order batter,Left hand bat,Slow left arm orthodox
+36110,Arjun Yadav,India,Batter,Right hand bat,Right arm offbreak
+36130,Yashpal Singh,India,Batter,Right hand bat,Right arm medium
+36326,Shane Bond,New Zealand,Bowler,Right hand bat,Right arm fast
+37000,Stephen Fleming,New Zealand,Top order batter,Left hand bat,Top order batter
+37004,James Franklin,New Zealand,Allrounder,Left hand bat,Left arm medium
+37737,Brendon McCullum,New Zealand,Wicketkeeper batter,Right hand bat,NULL
+37749,Nathan McCullum,New Zealand,Bowler,Right hand bat,Right arm offbreak
+38062,Jacob Oram,New Zealand,Allrounder,Left hand bat,Right arm fast medium
+38373,Jesse Ryder,New Zealand,Allrounder,Left hand bat,Right arm medium
+38407,Scott Styris,New Zealand,Allrounder,Right hand bat,Right arm medium
+38699,Ross Taylor,New Zealand,Middle order batter,Right hand bat,Right arm offbreak
+38710,Daniel Vettori,New Zealand,Allrounder,Left hand bat,Slow left arm orthodox
+39024,Azhar Mahmood,Pakistan,NULL,Right hand bat,Right arm fast medium
+40618,Imran Tahir,South Africa,Bowler,Right hand bat,Legbreak googly
+41028,Kamran Akmal,Pakistan,Wicketkeeper batter,Right hand bat,NULL
+41378,Misbah-ul-Haq,Pakistan,Middle order batter,Right hand bat,Legbreak
+41411,Mohammad Asif,Pakistan,Bowler,Left hand bat,Right arm fast medium
+41434,Mohammad Hafeez,Pakistan,Allrounder,Right hand bat,Right arm offbreak
+42639,Shahid Afridi,Pakistan,Allrounder,Right hand bat,Legbreak googly
+42655,Shoaib Akhtar,Pakistan,Bowler,Right hand bat,Right arm fast
+42657,Shoaib Malik,Pakistan,Allrounder,Right hand bat,Right arm offbreak
+42683,Salman Butt,Pakistan,Batter,Left hand bat,Right arm offbreak
+43265,Sohail Tanvir,Pakistan,Bowler,Left hand bat,Left arm medium fast
+43524,Umar Gul,Pakistan,Bowler,Right hand bat,Right arm fast medium
+43652,Younis Khan,Pakistan,Middle order batter,Right hand bat,Right arm medium, Legbreak
+43906,Hashim Amla,South Africa,Top order batter,Right hand bat,Right arm medium, Right arm offbreak
+44111,Mark Boucher,South Africa,Wicketkeeper batter,Right hand bat,NULL
+44149,Johan Botha,South Africa,Allrounder,Right hand bat,Right arm offbreak
+44410,Farhaan Behardien,South Africa,Batting allrounder,Right hand bat,Right arm fast medium
+44828,Faf du Plessis,South Africa,Middle order batter,Right hand bat,Legbreak
+44932,Jean-Paul Duminy,South Africa,Batting allrounder,Left hand bat,Right arm offbreak
+44936,AB de Villiers,South Africa,Wicketkeeper batter,Right hand bat,NULL
+44938,Dillon du Preez,South Africa,NULL,Right hand bat,Right arm fast medium
+45224,Herschelle Gibbs,South Africa,NULL,Right hand bat,Right arm bowler
+45434,Tyron Henderson,South Africa,Bowler,Right hand bat,Right arm fast medium
+45705,Colin Ingram,South Africa,Top order batter,Left hand bat,Legbreak
+45782,Davy Jacobs,South Africa,Wicketkeeper batter,Right hand bat,NULL
+45789,Jacques Kallis,South Africa,Allrounder,Right hand bat,Right arm fast medium
+45797,Justin Kemp,South Africa,NULL,Right hand bat,Right arm fast medium
+45963,Charl Langeveldt,South Africa,Bowler,Right hand bat,Right arm fast medium
+46148,Richard Levi,South Africa,Opening batter,Right hand bat,Right arm medium
+46248,Albie Morkel,South Africa,Bowling allrounder,Left hand bat,Right arm medium fast
+46393,Ryan McLaren,South Africa,Allrounder,Left hand bat,Right arm medium fast
+46538,Morne Morkel,South Africa,Bowler,Left hand bat,Right arm fast
+46569,Andre Nel,South Africa,NULL,Right hand bat,Right arm fast medium
+46592,Makhaya Ntini,South Africa,Bowler,Right hand bat,Right arm fast
+46750,Robin Peterson,South Africa,Bowler,Left hand bat,Slow left arm orthodox
+46774,Shaun Pollock,South Africa,Allrounder,Right hand bat,Right arm fast medium
+47270,Graeme Smith,South Africa,Opening batter,Left hand bat,Right arm offbreak
+47492,Dale Steyn,South Africa,Bowler,Right hand bat,Right arm fast
+47569,Alfonso Thomas,South Africa,Bowler,Right hand bat,Right arm fast medium
+47660,Ryan ten Doeschate,Netherlands,Allrounder,Right hand bat,Right arm medium fast
+47693,Johan van der Wath,South Africa,Allrounder,Right hand bat,Right arm medium fast
+47711,Morne van Wyk,South Africa,Wicketkeeper batter,Right hand bat,NULL
+47850,Roelof van der Merwe,Netherlands,Allrounder,Right hand bat,Slow left arm orthodox
+48472,Tillakaratne Dilshan,Sri Lanka,Allrounder,Right hand bat,Right arm offbreak
+48835,Dilhara Fernando,Sri Lanka,Bowler,Right hand bat,Right arm fast medium
+49209,Sanath Jayasuriya,Sri Lanka,Allrounder,Left hand bat,Slow left arm orthodox
+49289,Mahela Jayawardene,Sri Lanka,Batter,Right hand bat,Right arm medium
+49535,Nuwan Kulasekara,Sri Lanka,Bowler,Right hand bat,Right arm fast medium
+49636,Muthiah Muralidaran,Sri Lanka,Bowler,Right hand bat,Right arm offbreak
+49638,Farveez Maharoof,Sri Lanka,Allrounder,Right hand bat,Right arm fast medium
+49677,Thilan Thushara,Sri Lanka,Bowler,Left hand bat,Left arm fast medium
+49700,Jeevan Mendis,Sri Lanka,Allrounder,Left hand bat,Legbreak
+49758,Lasith Malinga,Sri Lanka,Bowler,Right hand bat,Right arm fast
+49764,Angelo Mathews,Sri Lanka,Allrounder,Right hand bat,Right arm medium
+50431,Chamara Silva,Sri Lanka,Batter,Right hand bat,Legbreak
+50438,Suraj Randiv,Sri Lanka,Bowler,Right hand bat,Right arm offbreak
+50710,Kumar Sangakkara,Sri Lanka,Wicketkeeper batter,Left hand bat,NULL
+50804,Chaminda Vaas,Sri Lanka,Bowler,Left hand bat,Left arm fast medium
+51050,Nuwan Zoysa,Sri Lanka,NULL,Left hand bat,Left arm fast medium
+51433,Samuel Badree,West Indies,Bowler,Right hand bat,Legbreak
+51439,Dwayne Bravo,West Indies,Allrounder,Right hand bat,Right arm medium
+51469,Shivnarine Chanderpaul,West Indies,Batter,Left hand bat,Legbreak
+51782,Fidel Edwards,West Indies,Bowler,Right hand bat,Right arm fast
+51880,Chris Gayle,West Indies,Allrounder,Left hand bat,Right arm offbreak
+52912,Ravi Rampaul,West Indies,Bowler,Left hand bat,Right arm fast medium
+52969,Ramnaresh Sarwan,West Indies,Batter,Right hand bat,Legbreak
+52983,Marlon Samuels,West Indies,Top order batter,Right hand bat,Right arm offbreak
+53115,Daren Sammy,West Indies,Allrounder,Right hand bat,Right arm medium
+53116,Lendl Simmons,West Indies,Top order batter,Right hand bat,Right arm medium fast
+53118,Dwayne Smith,West Indies,Allrounder,Right hand bat,Right arm medium
+53191,Jerome Taylor,West Indies,Bowler,Right hand bat,Right arm fast
+55395,Colin de Grandhomme,New Zealand,Allrounder,Right hand bat,Right arm medium fast
+55698,Ray Price,Zimbabwe,Bowler,Right hand bat,Slow left arm orthodox
+55805,Tatenda Taibu,Zimbabwe,Wicketkeeper batter,Right hand bat,NULL
+55988,Mohammad Ashraful,Bangladesh,Middle order batter,Right hand bat,Right arm offbreak, Legbreak
+56007,Mashrafe Mortaza,Bangladesh,Bowler,Right hand bat,Right arm fast medium
+56143,Shakib Al Hasan,Bangladesh,Allrounder,Left hand bat,Slow left arm orthodox
+56283,Abdur Razzak,Bangladesh,Bowler,Left hand bat,Slow left arm orthodox
+209457,Chamara Kapugedera,Sri Lanka,Middle order batter,Right hand bat,Right arm medium
+211854,Rob Quiney,Australia,Batter,Left hand bat,Right arm medium
+215155,Usman Khawaja,Australia,Top order batter,Left hand bat,Right arm medium
+219889,David Warner,Australia,Opening batter,Left hand bat,Legbreak
+220435,Arindam Ghosh,India,Batter,Right hand bat,Right arm medium
+221140,David Wiese,Namibia,Allrounder,Right hand bat,Right arm medium fast
+223642,Rusty Theron,U.S.A.,Bowler,Right hand bat,Right arm medium fast
+224367,Yusuf Abdulla,South Africa,Bowler,Left hand bat,Left arm fast medium
+226492,Martin Guptill,New Zealand,Opening batter,Right hand bat,Right arm offbreak
+227712,Ashok Dinda,India,Bowler,Right hand bat,Right arm medium fast
+228430,Abu Nechim,India,Bowler,Right hand bat,Right arm medium fast
+228622,John Hastings,Australia,Allrounder,Right hand bat,Right arm fast medium
+228943,Sunny Sohal,U.S.A.,Batter,Right hand bat,Legbreak
+230193,Matthew Wade,Australia,Wicketkeeper batter,Left hand bat,NULL
+230371,Ben Cutting,Australia,Allrounder,Right hand bat,Right arm fast medium
+230553,Kemar Roach,West Indies,Bowler,Right hand bat,Right arm fast medium
+230554,Javon Searles,West Indies,Bowling allrounder,Right hand bat,Right arm fast medium
+230558,Sunil Narine,West Indies,Bowling allrounder,Left hand bat,Right arm offbreak
+230559,Kieron Pollard,West Indies,Allrounder,Right hand bat,Right arm medium
+230593,Abhishek Raut,India,Allrounder,Right hand bat,Legbreak googly
+232284,Luke Pomersbach,Australia,Batter,Left hand bat,Right arm offbreak
+232292,Swapnil Singh,India,Bowler,Right hand bat,Slow left arm orthodox
+232359,Colin Munro,New Zealand,Opening batter,Left hand bat,Right arm medium fast
+232364,Tim Southee,New Zealand,Bowler,Right hand bat,Right arm medium fast
+233514,Thisara Perera,Sri Lanka,Bowling allrounder,Left hand bat,Right arm medium fast
+234675,Ravindra Jadeja,India,Allrounder,Left hand bat,Slow left arm orthodox
+236694,Aditya Dole,India,Bowler,Right hand bat,Right arm medium fast
+236766,Rajesh Bishnoi,India,NULL,Right hand bat,Right arm medium fast
+236779,Ishant Sharma,India,Bowler,Right hand bat,Right arm fast medium
+236810,Halhadar Das,India,NULL,Right hand bat,Wicketkeeper
+237095,Murali Vijay,India,Opening batter,Right hand bat,Right arm offbreak
+237696,Sheldon Jackson,India,Wicketkeeper batter,Right hand bat,NULL
+237701,Dwaraka Ravi Teja,India,Batter,Right hand bat,Legbreak googly
+240734,Mohnish Parmar,India,NULL,Right hand bat,Right arm offbreak
+244639,Harry Gurney,England,Bowler,Right hand bat,Left arm fast medium
+247235,Chris Woakes,England,Allrounder,Right hand bat,Right arm fast medium
+249866,Alex Hales,England,Opening batter,Right hand bat,Right arm medium
+253798,Bodapati Sumanth,India,Middle order batter,Right hand bat,Right arm medium fast
+253802,Virat Kohli,India,Top order batter,Right hand bat,Right arm medium
+261354,Nathan Coulter-Nile,Australia,Bowling allrounder,Right hand bat,Right arm fast
+262533,Udit Birla,India,NULL,Right hand bat,Right arm medium
+265564,Wayne Parnell,South Africa,Bowler,Left hand bat,Left arm medium fast
+267192,Steven Smith,Australia,Middle order batter,Right hand bat,Legbreak googly
+268739,Ajantha Mendis,Sri Lanka,Bowler,Right hand bat,Right arm offbreak
+269170,KP Appanna,India,NULL,Right hand bat,Slow left arm orthodox
+270484,James Faulkner,Australia,Bowling allrounder,Right hand bat,Left arm fast medium
+271315,Sunny Gupta,India,NULL,Right hand bat,Right arm offbreak
+272262,Kane Richardson,Australia,Bowler,Right hand bat,Right arm fast medium
+272450,Mitchell Marsh,Australia,Allrounder,Right hand bat,Right arm medium
+272465,James Pattinson,Australia,Bowler,Left hand bat,Right arm fast medium
+272477,Jason Behrendorff,Australia,Bowler,Right hand bat,Left arm fast medium
+272949,Paidikalva Vijaykumar,India,NULL,Right hand bat,Right arm medium
+272994,Rahul Sharma,India,Bowler,Right hand bat,Legbreak googly
+273439,Sachithra Senanayake,Sri Lanka,Bowler,Right hand bat,Right arm offbreak
+274785,Nitin Saini,India,NULL,Right hand bat,Wicketkeeper
+274926,Adrian Barath,West Indies,Opening batter,Right hand bat,Right arm offbreak
+276298,Andre Russell,West Indies,Allrounder,Right hand bat,Right arm fast
+277237,Iqbal Abdulla,India,Allrounder,Left hand bat,Slow left arm orthodox
+277472,Darren Bravo,West Indies,Top order batter,Left hand bat,Right arm medium
+277662,Corey Anderson,New Zealand,Batting allrounder,Left hand bat,Left arm medium fast
+277906,Kane Williamson,New Zealand,Top order batter,Right hand bat,Right arm offbreak
+277912,Trent Boult,New Zealand,Bowler,Right hand bat,Left arm fast medium
+277916,Ajinkya Rahane,India,Top order batter,Right hand bat,Right arm medium
+277955,Dhawal Kulkarni,India,Bowler,Right hand bat,Right arm medium
+278482,Dinesh Salunkhe,India,Bowler,Right hand bat,Legbreak
+279460,Rahil Shaikh,India,NULL,Left hand bat,Left arm medium
+279545,Pradeep Sangwan,India,Bowler,Right hand bat,Left arm medium
+279552,Shrikant Wagh,India,Allrounder,Left hand bat,Left arm medium fast
+279554,Ishank Jaggi,India,Batter,Right hand bat,Legbreak googly
+279562,Prasanth Parameswaran,India,NULL,Right hand bat,Left arm medium
+279810,Wriddhiman Saha,India,Wicketkeeper batter,Right hand bat,NULL
+279862,Shrikant Mundhe,India,Allrounder,Right hand bat,Right arm medium
+288284,Josh Hazlewood,Australia,Bowler,Left hand bat,Right arm fast medium
+288992,Chris Jordan,England,Bowler,Right hand bat,Right arm fast medium
+290629,Palani  Amarnath,India,NULL,Right hand bat,Right arm medium
+290630,Manish Pandey,India,Top order batter,Right hand bat,Right arm medium
+290632,Sreenath Aravind,India,Bowler,Left hand bat,Left arm medium fast
+290713,Rohan Raje,India,NULL,Right hand bat,Right arm fast medium
+290716,Kedar Jadhav,India,Batting allrounder,Right hand bat,Right arm offbreak
+290727,Rishi Dhawan,India,Allrounder,Right hand bat,Right arm medium fast
+297433,Jonny Bairstow,England,Wicketkeeper batter,Right hand bat,NULL
+297583,Kyle Abbott,South Africa,Bowler,Right hand bat,Right arm fast medium
+297628,Sam Billings,England,Wicketkeeper batter,Right hand bat,NULL
+298438,Jason Roy,England,Opening batter,Right hand bat,Opening batter
+300631,Kusal Perera,Sri Lanka,Wicketkeeper batter,Left hand bat,NULL
+302208,Chidhambaram Gautam,India,Wicketkeeper,Right hand bat,Wicketkeeper
+302579,Shreevats Goswami,India,Wicketkeeper batter,Left hand bat,NULL
+302582,Abhinav Mukund,India,Top order batter,Left hand bat,Legbreak googly
+307448,Vikrant Yeligati,India,NULL,Right hand bat,Right arm offbreak
+308251,David Willey,England,Bowling allrounder,Left hand bat,Left arm fast medium
+308798,D Arcy Short,Australia,Opening batter,Left hand bat,Left arm wrist spin
+308967,Jos Buttler,England,Wicketkeeper batter,Right hand bat,NULL
+310958,Abhimanyu Mithun,India,Bowler,Right hand bat,Right arm medium
+311158,Ben Stokes,England,Allrounder,Left hand bat,Right arm fast medium
+311592,Mitchell Starc,Australia,Bowler,Left hand bat,Left arm fast
+314622,Krishmar Santokie,West Indies,Bowler,Left hand bat,Left arm medium
+315623,Ben Laughlin,Australia,Bowler,Right hand bat,Right arm fast medium
+317292,Sarabjit Ladda,India,Bowler,Right hand bat,Legbreak
+317293,Manpreet Gony,India,Bowler,Right hand bat,Right arm medium
+317709,Shoaib Ahmed,India,NULL,Right hand bat,Right arm fast medium
+317784,Sudeep Tyagi,India,Bowler,Right hand bat,Right arm medium
+317786,Yogesh Nagar,India,Allrounder,Right hand bat,Right arm offbreak
+318845,Rilee Rossouw,South Africa,Top order batter,Left hand bat,Right arm offbreak
+319439,Mitchell McClenaghan,New Zealand,Bowler,Left hand bat,Left arm fast medium
+319744,Thalaivan Sargunam,India,NULL,Right hand bat,Right arm offbreak
+319745,Arun Karthik,India,Wicketkeeper batter,Right hand bat,NULL
+321777,David Miller,South Africa,Middle order batter,Left hand bat,Right arm offbreak
+322535,Karanveer Singh,India,NULL,Right hand bat,Legbreak googly
+323131,Parvinder Awana,India,Bowler,Right hand bat,Right arm medium
+324444,Amit Paunikar,India,Wicketkeeper batter,Right hand bat,NULL
+325012,Marcus Stoinis,Australia,Middle order batter,Right hand bat,Right arm medium
+325026,Glenn Maxwell,Australia,Batting allrounder,Right hand bat,Right arm offbreak
+326016,Bhuvneshwar Kumar,India,Bowler,Right hand bat,Right arm medium
+326017,Siddarth Kaul,India,Bowler,Right hand bat,Right arm medium
+326434,Alex Carey,Australia,Wicketkeeper batter,Left hand bat,NULL
+326637,Chris Lynn,Australia,Batter,Right hand bat,Slow left arm orthodox
+327123,Ankit Bawne,India,Middle order batter,Right hand bat,Right arm offbreak
+327127,PM Sarvesh Kumar,India,NULL,Right hand bat,Right arm medium
+328026,Isuru Udana,Sri Lanka,Allrounder,Right hand bat,Left arm medium fast
+328163,Debabrata Das,India,NULL,Right hand bat,Legbreak googly
+330902,Mustafizur Rahman,Bangladesh,Bowler,Left hand bat,Left arm fast medium
+331855,Taruwar Kohli,India,NULL,Right hand bat,Right arm medium
+333780,Nic Maddinson,Australia,Opening batter,Left hand bat,Slow left arm orthodox
+333904,Aditya Tare,India,Wicketkeeper,Right hand bat,Wicketkeeper
+334337,Peter Handscomb,Australia,Batter,Right hand bat,Wicketkeeper
+337913,Ankeet Chavan,India,Batter,Left hand bat,Slow left arm orthodox
+337916,Siddharth Chitnis,India,Batter,Right hand bat,Right arm offbreak
+340841,Eklavya Dwivedi,India,Wicketkeeper,Right hand bat,Wicketkeeper
+340854,Harpreet Singh,India,Batter,Left hand bat,Right arm medium
+344580,Shreyas Gopal,India,Allrounder,Right hand bat,Legbreak
+351588,Mark Wood,England,Bowler,Right hand bat,Right arm fast
+353669,Ryan Ninan,India,Allrounder,Right hand bat,Right arm offbreak
+355269,James Neesham,New Zealand,Batting allrounder,Left hand bat,Right arm medium fast
+360911,Varun Aaron,India,Bowler,Right hand bat,Right arm fast
+362541,Doug Bracewell,New Zealand,Bowler,Right hand bat,Right arm fast medium
+371150,Ashok Menaria,India,Allrounder,Left hand bat,Slow left arm orthodox
+371814,Kevon Cooper,West Indies,Allrounder,Right hand bat,Right arm medium
+375126,Hardus Viljoen,South Africa,Bowler,Right hand bat,Right arm fast
+376102,Jaskaran Singh,India,Bowler,Right hand bat,Right arm medium
+376109,Akshath Reddy,India,NULL,Right hand bat,Legbreak
+376116,Umesh Yadav,India,Bowler,Right hand bat,Right arm fast
+376169,Michael Neser,Australia,Bowling allrounder,Right hand bat,Right arm medium fast
+376324,Anureet Singh,India,Bowler,Right hand bat,Right arm medium
+377437,Shoaib Shaikh,India,NULL,Right hand bat,Right arm medium
+378496,Parvez Rasool,India,Bowling allrounder,Right hand bat,Right arm offbreak
+379143,Quinton de Kock,South Africa,Wicketkeeper batter,Left hand bat,NULL
+379145,Tabraiz Shamsi,South Africa,Bowler,Right hand bat,Left arm wrist spin
+379504,Adam Zampa,Australia,Bowler,Right hand bat,Legbreak googly
+379927,Beuran Hendricks,South Africa,Bowler,Left hand bat,Left arm fast medium
+388678,Ben Dunk,Australia,Wicketkeeper batter,Left hand bat,NULL
+389605,Ashish Reddy,India,Allrounder,Right hand bat,Right arm medium
+390480,Manprit Juneja,India,NULL,Right hand bat,Right arm offbreak
+390481,Harshal Patel,India,Bowler,Right hand bat,Right arm medium
+390484,Jaydev Unadkat,India,Bowler,Right hand bat,Left arm medium
+390547,Rahul Shukla,India,NULL,Right hand bat,Right arm medium
+391121,Kamran Khan,India,Bowler,Left hand bat,Left arm medium fast
+391485,Jason Holder,West Indies,Bowling allrounder,Right hand bat,Right arm medium fast
+393279,Marchant de Lange,South Africa,Bowler,Right hand bat,Right arm fast
+398438,Mayank Agarwal,India,Batter,Right hand bat,Right arm offbreak
+398439,Karun Nair,India,Top order batter,Right hand bat,Right arm offbreak
+398506,Mandeep Singh,India,Allrounder,Right hand bat,Right arm medium
+398666,Sean Abbott,Australia,Bowler,Right hand bat,Right arm fast medium
+403902,Liam Livingstone,England,Batting allrounder,Right hand bat,Right arm offbreak, Legbreak
+422106,Abrar Kazi,India,Bowler,Left hand bat,Slow left arm orthodox
+422108,KL Rahul,India,Opening batter,Right hand bat,Wicketkeeper
+422342,Siddhesh Lad,India,Middle order batter,Right hand bat,Right arm offbreak
+422847,Harmeet Singh,India,NULL,Left hand bat,Slow left arm orthodox
+422992,Ankit Sharma,India,Bowler,Left hand bat,Slow left arm orthodox
+423838,Rahul Tewatia,India,Bowler,Left hand bat,Legbreak
+424219,Ronit More,India,NULL,Right hand bat,Right arm medium
+424377,Krishnappa Gowtham,India,Bowling allrounder,Right hand bat,Right arm offbreak
+425943,Sanju Samson,India,Wicketkeeper batter,Right hand bat,NULL
+430125,Biplab Samantray,India,NULL,Right hand bat,Right arm medium
+430246,Yuzvendra Chahal,India,Bowler,Right hand bat,Legbreak googly
+430401,Asad Pathan,India,Bowler,Right hand bat,Right arm medium
+431213,Pawan Suyal,India,Bowler,Right hand bat,Left arm medium
+431876,Krishnakant  Upadhyay,India,NULL,Right hand bat,Right arm medium
+431901,Evin Lewis,West Indies,Opening batter,Left hand bat,Opening batter
+432783,Sachin Baby,India,Batter,Left hand bat,Right arm offbreak
+433410,Bhargav Bhatt,India,Bowler,Left hand bat,Slow left arm orthodox
+436757,Heinrich Klaasen,South Africa,Wicketkeeper batter,Right hand bat,NULL
+438362,Sandeep Sharma,India,Bowler,Right hand bat,Right arm medium
+439952,Chris Morris,South Africa,Bowling allrounder,Right hand bat,Right arm fast medium
+446499,Unmukt Chand,India,Top order batter,Right hand bat,Right arm offbreak
+446507,Suryakumar Yadav,India,Batter,Right hand bat,Right arm medium, Right arm offbreak
+446548,Scott Boland,Australia,Bowler,Right hand bat,Right arm fast medium
+446763,Rahul Tripathi,India,Top order batter,Right hand bat,Right arm medium
+447261,Deepak Chahar,India,Bowler,Right hand bat,Right arm medium
+447439,Ishwar Pandey,India,Bowler,Right hand bat,Right arm medium
+447587,Jayant Yadav,India,Bowler,Right hand bat,Right arm offbreak
+450860,Adam Milne,New Zealand,Bowler,Right hand bat,Right arm fast
+452044,Hanuma Vihari,India,Batting allrounder,Right hand bat,Right arm offbreak
+457249,Carlos Brathwaite,West Indies,Allrounder,Right hand bat,Right arm fast medium
+459257,Tymal Mills,England,Bowler,Right hand bat,Left arm fast
+459508,Andrew Tye,Australia,Bowler,Right hand bat,Right arm medium fast
+471342,Krunal Pandya,India,Allrounder,Left hand bat,Slow left arm orthodox
+475281,Shardul Thakur,India,Bowler,Right hand bat,Right arm medium
+477021,Vijay Shankar,India,Allrounder,Right hand bat,Right arm medium
+481896,Mohammed Shami,India,Bowler,Right hand bat,Right arm fast
+481979,Anrich Nortje,South Africa,Bowler,Right hand bat,Right arm fast
+489889,Pat Cummins,Australia,Bowler,Right hand bat,Right arm fast
+493773,Lockie Ferguson,New Zealand,Bowler,Right hand bat,Right arm fast
+495551,Sheldon Cottrell,West Indies,Bowler,Right hand bat,Left arm fast medium
+497121,Deepak Hooda,India,Allrounder,Right hand bat,Right arm offbreak
+499660,Gurinder Sandhu,Australia,Bowler,Left hand bat,Right arm fast medium
+500135,Prashant Chopra,India,Opening batter,Right hand bat,Legbreak googly
+500268,Ashton Turner,Australia,Middle order batter,Right hand bat,Right arm offbreak
+500360,Akshdeep Nath,India,Middle order batter,Right hand bat,Right arm medium fast
+502714,Mitchell Santner,New Zealand,Bowling allrounder,Left hand bat,Slow left arm orthodox
+506612,Matt Henry,New Zealand,Bowler,Right hand bat,Right arm fast medium
+527299,Aniket Choudhary,India,Bowler,Right hand bat,Left arm medium
+527663,Jagadeesha Suchith,India,Bowler,Left hand bat,Slow left arm orthodox
+528067,Murugan Ashwin,India,Bowler,Right hand bat,Legbreak googly
+528967,Veer Pratap Singh,India,NULL,Right hand bat,Right arm medium
+528985,Domnic Muthuswami,India,NULL,Right hand bat,Right arm medium
+530011,Travis Head,Australia,Middle order batter,Left hand bat,Right arm offbreak
+530773,Pawan Negi,India,Bowler,Left hand bat,Slow left arm orthodox
+532856,Manan Vohra,India,Opening batter,Right hand bat,Right arm medium
+533042,Billy Stanlake,Australia,Bowler,Left hand bat,Right arm fast
+537119,Mohit Sharma,India,Bowler,Right hand bat,Right arm medium
+537124,Gurkeerat Singh Mann,India,Middle order batter,Right hand bat,Right arm offbreak
+537126,Barinder Sran,India,Bowler,Left hand bat,Left arm medium
+539548,Scott Kuggeleijn,New Zealand,Bowling allrounder,Right hand bat,Right arm fast medium
+542023,Lungi Ngidi,South Africa,Bowler,Right hand bat,Right arm fast medium
+545467,Junior Dala,South Africa,Bowler,Right hand bat,Right arm medium
+550215,Kagiso Rabada,South Africa,Bowler,Left hand bat,Right arm fast
+550235,Tom Curran,England,Bowling allrounder,Right hand bat,Right arm fast medium
+554691,Axar Patel,India,Bowling allrounder,Left hand bat,Slow left arm orthodox
+554699,Vijay Zol,India,NULL,Left hand bat,Right arm offbreak
+554700,Nikhil Naik,India,Wicketkeeper batter,Right hand bat,NULL
+559066,Ish Sodhi,New Zealand,Bowler,Right hand bat,Legbreak
+559235,Kuldeep Yadav,India,Bowler,Left hand bat,Left arm wrist spin
+574178,Akila Dananjaya,Sri Lanka,Allrounder,Left hand bat,Right arm offbreak, Legbreak
+587152,Pravin Tambe,India,Bowler,Right hand bat,Legbreak
+590327,Dhruv Shorey,India,Top order batter,Right hand bat,Right arm offbreak
+591650,Ankit Rajpoot,India,Bowler,Right hand bat,Right arm medium
+592735,Sandeep Warrier,India,Bowler,Right hand bat,Right arm medium
+604302,Nicholas Pooran,West Indies,Wicketkeeper batter,Left hand bat,NULL
+604527,Nitish Rana,India,Middle order batter,Left hand bat,Right arm offbreak
+625371,Hardik Pandya,India,Allrounder,Right hand bat,Right arm medium fast
+625383,Jasprit Bumrah,India,Bowler,Right hand bat,Right arm fast
+642519,Shreyas Iyer,India,Top order batter,Right hand bat,Legbreak googly
+642525,Sarfaraz Khan,India,Middle order batter,Right hand bat,Legbreak
+642531,Ricky Bhui,India,Top order batter,Right hand bat,Legbreak googly
+662973,Sam Curran,England,Allrounder,Left hand bat,Left arm medium fast
+669855,Jofra Archer,England,Bowler,Right hand bat,Right arm fast
+670025,Shimron Hetmyer,West Indies,Top order batter,Left hand bat,Top order batter
+670031,Alzarri Joseph,West Indies,Bowler,Right hand bat,Right arm fast medium
+677081,Keemo Paul,West Indies,Allrounder,Right hand bat,Right arm fast medium
+694209,Monu Kumar,India,Bowling allrounder,Right hand bat,Right arm medium
+694211,Avesh Khan,India,Bowler,Right hand bat,Right arm fast medium
+700167,Navdeep Saini,India,Bowler,Right hand bat,Right arm fast
+714451,Shivam Dube,India,Allrounder,Left hand bat,Right arm medium
+717201,Shivam Sharma,India,NULL,Right hand bat,Right arm offbreak
+719715,Washington Sundar,India,Bowling allrounder,Left hand bat,Right arm offbreak
+720471,Ishan Kishan,India,Wicketkeeper batter,Left hand bat,NULL
+723105,Rinku Singh,India,Middle order batter,Left hand bat,Right arm offbreak
+732291,Basil Thampi,India,Bowler,Right hand bat,Right arm fast medium
+732293,Vishnu Vinod,India,Wicketkeeper batter,Right hand bat,NULL
+777515,Praveen Dubey,India,Bowler,Right hand bat,Legbreak googly
+777537,KC Cariappa,India,Bowler,Right hand bat,Legbreak
+787073,Chris Green,Australia,Bowling allrounder,Right hand bat,Right arm offbreak
+793463,Rashid Khan,Afghanistan,Bowler,Right hand bat,Legbreak googly
+802575,T Natarajan,India,Bowler,Left hand bat,Left arm medium
+822553,Tushar Deshpande,India,Bowler,Left hand bat,Right arm medium
+826901,Daniel Sams,Australia,Allrounder,Right hand bat,Left arm fast medium
+853259,Nathu Singh,India,Bowler,Right hand bat,Right arm medium
+853265,Mahipal Lomror,India,Allrounder,Left hand bat,Slow left arm orthodox
+877051,Tom Banton,England,Opening batter,Right hand bat,Wicketkeeper
+914541,Sherfane Rutherford,West Indies,Middle order batter,Left hand bat,Right arm fast medium
+914567,Oshane Thomas,West Indies,Bowler,Left hand bat,Right arm fast
+917159,Prasidh Krishna,India,Bowler,Right hand bat,Right arm medium fast
+917213,Shivil Kaushik,India,Bowler,Right hand bat,Left arm wrist spin
+931581,Rishabh Pant,India,Wicketkeeper batter,Left hand bat,NULL
+940973,Mohammed Siraj,India,Bowler,Right hand bat,Right arm medium fast
+942645,Khaleel Ahmed,India,Bowler,Right hand bat,Left arm medium
+960361,Sandeep Lamichhane,Nepal,Bowler,Right hand bat,Legbreak googly
+974109,Mujeeb Ur Rahman,Afghanistan,Bowler,Right hand bat,Right arm offbreak
+1048813,Narayan Jagadeesan,India,Opening batter,Right hand bat,Wicketkeeper
+1060380,Ruturaj Gaikwad,India,Batter,Right hand bat,Right arm offbreak
+1064812,Rahul Chahar,India,Bowler,Right hand bat,Legbreak googly
+1070168,Prithvi Shaw,India,Opening batter,Right hand bat,Right arm offbreak
+1070173,Shubman Gill,India,Opening batter,Right hand bat,Right arm offbreak
+1070180,Priyam Garg,India,Top order batter,Right hand bat,Right arm medium
+1070183,Abhishek Sharma,India,Allrounder,Left hand bat,Slow left arm orthodox
+1070188,Kamlesh Nagarkoti,India,Bowler,Right hand bat,Right arm fast
+1079434,Riyan Parag,India,Top order batter,Right hand bat,Legbreak
+1079668,Shubham Agarwal,India,NULL,Right hand bat,Legbreak googly
+1079839,Anukul Roy,India,Allrounder,Left hand bat,Slow left arm orthodox
+1079848,Shivam Mavi,India,Allrounder,Right hand bat,Right arm fast medium
+1081442,Mayank Markande,India,Bowler,Right hand bat,Legbreak
+1082859,Tejas Baroka,India,NULL,Right hand bat,Legbreak googly
+1083030,KM Asif,India,Bowler,Right hand bat,Right arm medium
+1083033,Kulwant Khejroliya,India,Bowler,Left hand bat,Left arm medium fast
+1083128,Ankit Soni,India,Allrounder,Right hand bat,Legbreak
+1108375,Varun Chakravarthy,India,Bowler,Right hand bat,Right arm offbreak
+1119026,Devdutt Padikkal,India,Top order batter,Left hand bat,Right arm offbreak
+1121579,Prithvi Raj,India,Bowler,Left hand bat,Left arm medium
+1122918,Kartik Tyagi,India,Bowler,Right hand bat,Right arm medium fast
+1124282,Josh Philippe,Australia,Wicketkeeper batter,Right hand bat,NULL
+1125976,Arshdeep Singh,India,Bowler,Left hand bat,Left arm medium fast
+1131619,Sudhesan Midhun,India,Bowler,Right hand bat,Legbreak googly
+1151278,Yashasvi Jaiswal,India,Opening batter,Left hand bat,Legbreak
+1159711,Shahbaz Ahmed,India,Allrounder,Left hand bat,Slow left arm orthodox
+1159712,Prayas Ray Barman,India,Bowler,Right hand bat,Legbreak googly
+1161024,Prabhsimran Singh,India,Wicketkeeper batter,Right hand bat,NULL
+1161489,Rasikh Salam,India,Bowler,Right hand bat,Right arm medium
+1168641,Harpreet Brar,India,Bowler,Left hand bat,Slow left arm orthodox
+1175441,Ravi Bishnoi,India,Bowler,Right hand bat,Legbreak googly
+1175485,Abdul Samad,India,Batter,Right hand bat,Legbreak

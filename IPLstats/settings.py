@@ -3,7 +3,8 @@ DB_NAME = 'ipl'
 USER = 'sanchit'
 
 
-series = {2020: 'indian-premier-league-2020-21-1210595',
+series = {	2021: 'ipl-2021-1249214',
+			2020: 'indian-premier-league-2020-21-1210595',
 			2019:'indian-premier-league-2019-1165643',
 			2018:'indian-premier-league-2018-1131611',
 			2017:'indian-premier-league-2017-1078425',

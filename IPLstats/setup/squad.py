@@ -11,7 +11,8 @@ import pandas as pd
 import time
 from settings import series, DB_NAME, PWD, USER
 from tools.db_funcs import create_server_connection, create_database, create_db_connection, execute_query
-from tools.setup_helpers import get_player_info, printProgressBar
+from tools.setup_helpers import get_player_info
+from tools.utils import printProgressBar
 
 
 def create_squads():

@@ -1,0 +1,1 @@
+mysql -h localhost -u sanchit -p -e "select * from ipl.$1" | sed 's/\t/,/g' > ~/Git/Python/IPLstats/IPLstats/data/$1.csv
