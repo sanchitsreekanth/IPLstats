@@ -1,6 +1,6 @@
-PWD = 'Heisenberg@08123'
+PWD = 'YourMYSQLPasswordHere'
 DB_NAME = 'ipl'
-USER = 'sanchit'
+USER = 'YourMYSQLUsername'
 
 
 series = {	2021: 'ipl-2021-1249214',
@@ -44,6 +44,16 @@ team_colors = {'CSK':['#FCFB00','#000000'],
 				'MI':['#357EC7','#000000'],
 				'PBKS':['#E9AB17','#E42217'],
 				'RR':['#151BD8','FAAFBE'],
+				'KKR':['#800081','#000000'],
+				'SRH':['#FFA500','#000000']
+			
+}
+team_colors = {'CSK':['#FCFB00','#000000'],
+				'DC':['#151B54','#0041C2'],
+				'RCB':['#000000','#E42217'],
+				'MI':['#357EC7','#000000'],
+				'PBKS':['#E9AB17','#E42217'],
+				'RR':['#151BD8','#FAAFBE'],
 				'KKR':['#800081','#000000'],
 				'SRH':['#FFA500','#000000']
 			

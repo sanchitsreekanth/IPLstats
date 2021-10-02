@@ -4,3 +4,4 @@ re
 mysql-connector-python
 prettytable
 lxml
+colored

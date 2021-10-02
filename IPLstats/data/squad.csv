@@ -294,6 +294,7 @@ player_id,name,country,role,batting_style,bowling_style
 232364,Tim Southee,New Zealand,Bowler,Right hand bat,Right arm medium fast
 233514,Thisara Perera,Sri Lanka,Bowling allrounder,Left hand bat,Right arm medium fast
 234675,Ravindra Jadeja,India,Allrounder,Left hand bat,Slow left arm orthodox
+236489,Dawid Malan,England,Top order batter,Left hand bat,Legbreak
 236694,Aditya Dole,India,Bowler,Right hand bat,Right arm medium fast
 236766,Rajesh Bishnoi,India,NULL,Right hand bat,Right arm medium fast
 236779,Ishant Sharma,India,Bowler,Right hand bat,Right arm fast medium
@@ -302,6 +303,7 @@ player_id,name,country,role,batting_style,bowling_style
 237696,Sheldon Jackson,India,Wicketkeeper batter,Right hand bat,NULL
 237701,Dwaraka Ravi Teja,India,Batter,Right hand bat,Legbreak googly
 240734,Mohnish Parmar,India,NULL,Right hand bat,Right arm offbreak
+244497,Adil Rashid,England,Bowler,Right hand bat,Legbreak
 244639,Harry Gurney,England,Bowler,Right hand bat,Left arm fast medium
 247235,Chris Woakes,England,Allrounder,Right hand bat,Right arm fast medium
 249866,Alex Hales,England,Opening batter,Right hand bat,Right arm medium
@@ -483,6 +485,7 @@ player_id,name,country,role,batting_style,bowling_style
 528067,Murugan Ashwin,India,Bowler,Right hand bat,Legbreak googly
 528967,Veer Pratap Singh,India,NULL,Right hand bat,Right arm medium
 528985,Domnic Muthuswami,India,NULL,Right hand bat,Right arm medium
+529436,Srikar Bharat,India,Wicketkeeper batter,Right hand bat,NULL
 530011,Travis Head,Australia,Middle order batter,Left hand bat,Right arm offbreak
 530773,Pawan Negi,India,Bowler,Left hand bat,Slow left arm orthodox
 532856,Manan Vohra,India,Opening batter,Right hand bat,Right arm medium
@@ -505,13 +508,16 @@ player_id,name,country,role,batting_style,bowling_style
 590327,Dhruv Shorey,India,Top order batter,Right hand bat,Right arm offbreak
 591650,Ankit Rajpoot,India,Bowler,Right hand bat,Right arm medium
 592735,Sandeep Warrier,India,Bowler,Right hand bat,Right arm medium
+600498,Aiden Markram,South Africa,Opening batter,Right hand bat,Right arm offbreak
 604302,Nicholas Pooran,West Indies,Wicketkeeper batter,Left hand bat,NULL
 604527,Nitish Rana,India,Middle order batter,Left hand bat,Right arm offbreak
 625371,Hardik Pandya,India,Allrounder,Right hand bat,Right arm medium fast
 625383,Jasprit Bumrah,India,Bowler,Right hand bat,Right arm fast
+625964,Tim Seifert,New Zealand,Wicketkeeper batter,Right hand bat,NULL
 642519,Shreyas Iyer,India,Top order batter,Right hand bat,Legbreak googly
 642525,Sarfaraz Khan,India,Middle order batter,Right hand bat,Legbreak
 642531,Ricky Bhui,India,Top order batter,Right hand bat,Legbreak googly
+643433,George Garton,England,Bowling allrounder,Left hand bat,Left arm fast
 662973,Sam Curran,England,Allrounder,Left hand bat,Left arm medium fast
 669855,Jofra Archer,England,Bowler,Right hand bat,Right arm fast
 670025,Shimron Hetmyer,West Indies,Top order batter,Left hand bat,Top order batter
@@ -529,14 +535,19 @@ player_id,name,country,role,batting_style,bowling_style
 732293,Vishnu Vinod,India,Wicketkeeper batter,Right hand bat,NULL
 777515,Praveen Dubey,India,Bowler,Right hand bat,Legbreak googly
 777537,KC Cariappa,India,Bowler,Right hand bat,Legbreak
+784379,Wanindu Hasaranga de Silva,Sri Lanka,Allrounder,Right hand bat,Legbreak
 787073,Chris Green,Australia,Bowling allrounder,Right hand bat,Right arm offbreak
 793463,Rashid Khan,Afghanistan,Bowler,Right hand bat,Legbreak googly
 802575,T Natarajan,India,Bowler,Left hand bat,Left arm medium
 822553,Tushar Deshpande,India,Bowler,Left hand bat,Right arm medium
 826901,Daniel Sams,Australia,Allrounder,Right hand bat,Left arm fast medium
+826915,Nathan Ellis,Australia,Bowler,Right hand bat,Right arm fast medium
+851261,Anmolpreet Singh,India,Batter,Right hand bat,Right arm offbreak
+851403,Venkatesh Iyer,India,Allrounder,Left hand bat,Right arm medium
 853259,Nathu Singh,India,Bowler,Right hand bat,Right arm medium
 853265,Mahipal Lomror,India,Allrounder,Left hand bat,Slow left arm orthodox
 877051,Tom Banton,England,Opening batter,Right hand bat,Wicketkeeper
+892749,Tim David,Singapore,Allrounder,Right hand bat,Right arm offbreak
 914541,Sherfane Rutherford,West Indies,Middle order batter,Left hand bat,Right arm fast medium
 914567,Oshane Thomas,West Indies,Bowler,Left hand bat,Right arm fast
 917159,Prasidh Krishna,India,Bowler,Right hand bat,Right arm medium fast
@@ -545,6 +556,7 @@ player_id,name,country,role,batting_style,bowling_style
 940973,Mohammed Siraj,India,Bowler,Right hand bat,Right arm medium fast
 942645,Khaleel Ahmed,India,Bowler,Right hand bat,Left arm medium
 960361,Sandeep Lamichhane,Nepal,Bowler,Right hand bat,Legbreak googly
+967603,Ishan Porel,India,Bowler,Right hand bat,Right arm medium
 974109,Mujeeb Ur Rahman,Afghanistan,Bowler,Right hand bat,Right arm offbreak
 1048813,Narayan Jagadeesan,India,Opening batter,Right hand bat,Wicketkeeper
 1060380,Ruturaj Gaikwad,India,Batter,Right hand bat,Right arm offbreak
@@ -570,6 +582,7 @@ player_id,name,country,role,batting_style,bowling_style
 1124282,Josh Philippe,Australia,Wicketkeeper batter,Right hand bat,NULL
 1125976,Arshdeep Singh,India,Bowler,Left hand bat,Left arm medium fast
 1131619,Sudhesan Midhun,India,Bowler,Right hand bat,Legbreak googly
+1131754,Chetan Sakariya,India,Bowler,Left hand bat,Left arm medium fast
 1151278,Yashasvi Jaiswal,India,Opening batter,Left hand bat,Legbreak
 1159711,Shahbaz Ahmed,India,Allrounder,Left hand bat,Slow left arm orthodox
 1159712,Prayas Ray Barman,India,Bowler,Right hand bat,Legbreak googly
